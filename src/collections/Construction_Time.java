@@ -51,3 +51,6 @@ public class Construction_Time
 
 
 }
+
+//Linked occupies more memory than the array list
+//so constuction time is more for linkedlist
