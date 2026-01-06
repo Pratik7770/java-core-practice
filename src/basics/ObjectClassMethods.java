@@ -17,6 +17,7 @@ public class ObjectClassMethods {
 		System.out.println("equals method ===>"+obj1.equals(obj1));
 		System.out.println("equals method ===>"+obj1.equals(obj2));
 		System.out.println("------------------------------------------");
+        
 		
 		//getclass method return fully qulify name of our class
 		System.out.println(obj1.getClass());
